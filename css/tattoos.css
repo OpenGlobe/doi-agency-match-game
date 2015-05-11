@@ -1,11 +1,11 @@
-#overallCon { width: 620px; }
-#headCon { width: 430px; height: 190px; float: left; border-right: 1px dotted #CCC; background: url('../imgs/circlebgs.gif') no-repeat; }
+#overallCon { width: 750px; }
+#headCon { width: 550px; height: 190px; float: left; border-right: 1px dotted #CCC; }
 #scoreCon { width: 170px; height: 100px; float: right; }
 #tatCon { margin: 20px 0 0 0 ;}
 
 .headcircle { 
-	width: 70px;
-	font: 12px Arial;
+	width: 150px; 
+	font: 10px Arial;
 	text-align: center;
 	color: #666;
 	float: left;
@@ -26,7 +26,7 @@
 	text-shadow: 0 0 0.2em #000, 0 0 0.2em #000;
 	cursor: pointer;
 }
-.headcircleinside img { margin-bottom: -4px; width: 50px; }
+.headcircleinside img { margin-bottom: -4px; width: 150px; }
 
 .atattoo { float: left; margin-right: 3px; }
 

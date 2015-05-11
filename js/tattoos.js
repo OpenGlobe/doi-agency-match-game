@@ -1,4 +1,4 @@
-var allNames = ['barrea', 'brewer', 'cunningham', 'johnson', 'martin', 'muhammad', 'pekovic', 'rubio', 'turiaf', 'williams'];
+var allNames = ['blm', 'nps', 'bor'];
 
 var origXPos = [];
 var origYPos = [];
@@ -6,16 +6,10 @@ var attempts = 0;
 var correct = 0;
 
 var captions = [];
-captions[0] = "A tattoo on the chest of Minnesota Timberwolves J.J. Barea. \"S.J.\" are the initials for his son Sebastian Jose. \"I love my son, he's the most important thing in my life,\" said Barea.";
-captions[1] = "Tattoo on the arm of Minnesota Timberwolves Corey Brewer. \"Trust is very important,\" said Brewer.";
+captions[0] = "Grand Canyon National Park is hailed as one of the Seven Wonders of the World.  Nearly five million people see the 1 mile deep Grand Canyon each year.";
+captions[1] = "Grand Canyon National Park is hailed as one of the Seven Wonders of the World.  Nearly five million people see the 1 mile deep Grand Canyon each year.";
 captions[2] = "A tattoo on the shoulder of Minnesota Timberwolves Dante Cunningham. It's a mixture of his astrological sign Taurus with tribal symbols in honor of his great grandmother who was Native American.";
-captions[3] = "Tattoo on the arm of Minnesota Timberwolves Chris Johnson. \"My mom passed away when I was ten\" he said. \"It's a symbol of how much she meant to me, I'm living through her name.\"";
-captions[4] = "The untattooed arm of Minnesota Timberwolves Kevin Martin. Asked why he doesn't have any tattoos, \"I'm just a simple boring Midwest guy,\" he said.";
-captions[5] = "Tattoo of an image of his mother playing basketball on the arm of Minnesota Timberwolves Shabazz Muhammad. \"It's two angels symbolizing my mom playing basketball in college and high school.\"";
-captions[6] = "Tattoo of a Serbian warrior standing a pile of skulls on the arm of Minnesota Timberwolves Nikola Pekovic.";
-captions[7] = "Tattoo of a symbol for \"friendship\" on the wrist of Minnesota Timberwolves Ricky Rubio.";
-captions[8] = "A tattoo of a phoenix rising on the arm of Ronny Turiaf. \"It symbolizes dying and reliving and getting better as a human being all the time,\" he said.";
-captions[9] = "Tattoo of a lion on the arm of Minnesota Timberwolves  Derrick Williams. \"All my tattoos are of Greco-Roman statues,\" said Williams. \"I love lions, they have that look, they're always on tack, you always have to have that mentality.\"";
+
 
 function tattoosInit() {
 	//console.log("ready");
