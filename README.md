@@ -5,24 +5,6 @@ What is this?
 -------------
 
 A drag-and-drop matching game.
-A live demo: http://www.twincities.com/timberwolves/ci_24385647/minnesota-timberwolves-match-players-their-tattoos
 
-![match game](screenshots/matcher.png)
-
-Credits
----------
-
-Nelson Hsu
-
-Assumptions
------------
-
-* jQuery
-
-
-License
-----------
-
-This code is available under the MIT license. For more information, please see the LICENSE file in this repo.
-
+Based off of the matching game by Nelson Hsu.  This game uses jQuery and is based off of code available under the MIT license (see license file).
 
