@@ -6,9 +6,9 @@ var attempts = 0;
 var correct = 0;
 
 var captions = [];
-captions[0] = "Grand Canyon National Park is hailed as one of the Seven Wonders of the World.  Nearly five million people see the 1 mile deep Grand Canyon each year.";
+captions[0] = "Pictured here are just some of Idaho's wild horses.  The Bureau of Land Management studies these areas to determine how many horses the area can support, and manages the National Adobt-a-Horse program to find good homes for any excess wild horses.  Mature horses average approximately 1000 pounds and may be gray, black, bay, sorrel, red roan and pintos.";
 captions[1] = "Grand Canyon National Park is hailed as one of the Seven Wonders of the World.  Nearly five million people see the 1 mile deep Grand Canyon each year.";
-captions[2] = "A tattoo on the shoulder of Minnesota Timberwolves Dante Cunningham. It's a mixture of his astrological sign Taurus with tribal symbols in honor of his great grandmother who was Native American.";
+captions[2] = "The Hoover Dam and Lake Mead Recreational Area are two iconic locations about 40 minutes southeast of Las Vegas, Nevada.  Lake Mead was formed by the Hoover Dam and is the largest reservoir in the United States.  Activities include boating, water skiing, canoeing, kayaking and scuba diving.  You can also camp, bike and hike along the lakes shores.";
 
 
 function tattoosInit() {
@@ -39,7 +39,7 @@ function tattoosInit() {
 					showInfo(dataid);
 				});
 
-				if (correct == 10) {
+				if (correct == 3) {
 					$("#share").text("It took you " + attempts + " attempts to match them all. Share your score!")
 					$("shareBtns").html("hello world");
 					$("#shareCon").show();
