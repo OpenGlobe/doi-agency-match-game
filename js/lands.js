@@ -6,7 +6,9 @@ var attempts = 0;
 var correct = 0;
 
 var captions = [];
-captions[0] = "Pictured here are just some of Idaho's wild horses.  The Bureau of Land Management studies these areas to determine how many horses the area can support, and manages the National Adobt-a-Horse program to find good homes for any excess wild horses.  Mature horses average approximately 1000 pounds and may be gray, black, bay, sorrel, red roan and pintos.";
+captions[0] = "The Bureau of Land Management (BLM) may best be described as a small agency with a big mission: To sustain the health, diversity, and productivity of America’s public lands for the use and enjoyment of present and future generations. It administers more public land – over 245 million surface acres – than any other Federal agency in the United States. Most of this land is located in the 12 Western states, including Alaska.
+
+Pictured here are just some of Idaho's wild horses from the BLM National Wild Horse and Burro Program.  The BLM studies their lands to determine how many horses an area can support, and manages the National Adobt-a-Horse program to find good homes for any excess wild horses.  Mature horses average approximately 1000 pounds and may be gray, black, bay, sorrel, red roan and pintos.";
 captions[1] = "Grand Canyon National Park is hailed as one of the Seven Wonders of the World.  Nearly five million people see the 1 mile deep Grand Canyon each year.";
 captions[2] = "The Hoover Dam and Lake Mead Recreational Area are two iconic locations about 40 minutes southeast of Las Vegas, Nevada.  Lake Mead was formed by the Hoover Dam and is the largest reservoir in the United States.  Activities include boating, water skiing, canoeing, kayaking and scuba diving.  You can also camp, bike and hike along the lakes shores.";
 
